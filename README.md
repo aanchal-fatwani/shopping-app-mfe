@@ -10,3 +10,4 @@ You will be able to see the appln running at port 3000.
 
 Also, you can check the individual applications running at port 3001 and 3002
 
+Inspired from https://www.youtube.com/watch?v=2UtHFeEB3G8
